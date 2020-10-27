@@ -1,0 +1,14 @@
+E:\WangP\Engineer\Program\WorkVision\HWindow_W\bin\Debug\HWindow_W.exe.config
+E:\WangP\Engineer\Program\WorkVision\HWindow_W\bin\Debug\HWindow_W.exe
+E:\WangP\Engineer\Program\WorkVision\HWindow_W\bin\Debug\HWindow_W.pdb
+E:\WangP\Engineer\Program\WorkVision\HWindow_W\bin\Debug\halcondotnet.dll
+E:\WangP\Engineer\Program\WorkVision\HWindow_W\bin\Debug\halcondotnet.xml
+E:\WangP\Engineer\Program\WorkVision\HWindow_W\obj\Debug\HWindow_W.csprojAssemblyReference.cache
+E:\WangP\Engineer\Program\WorkVision\HWindow_W\obj\Debug\HWindow_W.HMainF.resources
+E:\WangP\Engineer\Program\WorkVision\HWindow_W\obj\Debug\HWindow_W.HWindow_Tool.resources
+E:\WangP\Engineer\Program\WorkVision\HWindow_W\obj\Debug\HWindow_W.Properties.Resources.resources
+E:\WangP\Engineer\Program\WorkVision\HWindow_W\obj\Debug\HWindow_W.csproj.GenerateResource.cache
+E:\WangP\Engineer\Program\WorkVision\HWindow_W\obj\Debug\HWindow_W.csproj.CoreCompileInputs.cache
+E:\WangP\Engineer\Program\WorkVision\HWindow_W\obj\Debug\HWindow_W.csproj.CopyComplete
+E:\WangP\Engineer\Program\WorkVision\HWindow_W\obj\Debug\HWindow_W.exe
+E:\WangP\Engineer\Program\WorkVision\HWindow_W\obj\Debug\HWindow_W.pdb

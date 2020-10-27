@@ -1,0 +1,14 @@
+E:\WangP\Engineer\Program\WorkVision\Image\bin\Debug\Image.exe.config
+E:\WangP\Engineer\Program\WorkVision\Image\bin\Debug\Image.exe
+E:\WangP\Engineer\Program\WorkVision\Image\bin\Debug\Image.pdb
+E:\WangP\Engineer\Program\WorkVision\Image\bin\Debug\halcondotnet.dll
+E:\WangP\Engineer\Program\WorkVision\Image\bin\Debug\hdevenginedotnet.dll
+E:\WangP\Engineer\Program\WorkVision\Image\bin\Debug\halcondotnet.xml
+E:\WangP\Engineer\Program\WorkVision\Image\bin\Debug\hdevenginedotnet.xml
+E:\WangP\Engineer\Program\WorkVision\Image\obj\Debug\Image.csprojAssemblyReference.cache
+E:\WangP\Engineer\Program\WorkVision\Image\obj\Debug\Image.Properties.Resources.resources
+E:\WangP\Engineer\Program\WorkVision\Image\obj\Debug\Image.csproj.GenerateResource.cache
+E:\WangP\Engineer\Program\WorkVision\Image\obj\Debug\Image.csproj.CoreCompileInputs.cache
+E:\WangP\Engineer\Program\WorkVision\Image\obj\Debug\Image.csproj.CopyComplete
+E:\WangP\Engineer\Program\WorkVision\Image\obj\Debug\Image.exe
+E:\WangP\Engineer\Program\WorkVision\Image\obj\Debug\Image.pdb
